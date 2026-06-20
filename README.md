@@ -1,2 +1,15 @@
-# python-calculator
-A simple calculator  built using python that  performs basic arithmetic operations
+# Python Calculator
+
+A simple calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technologies Used
+- Python
+
+## Author
+Adwaidh Aji
